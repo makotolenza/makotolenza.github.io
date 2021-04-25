@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.A. in Economics, Hitotsubashi University, 2019
+* Ph.D in Economics, University of Virginia, 2021-
 
-Work experience
+<!--Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
